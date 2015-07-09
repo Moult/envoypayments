@@ -1,0 +1,12 @@
+{
+    "name": "moult/envoypayments",
+    "description": "EnvoyPayments API library",
+    "keywords": ["envoypayments", "envoy", "payments", "api"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "autoload": {"psr-0": {"": "src"}},
+    "minimum-stability": "dev"
+}
